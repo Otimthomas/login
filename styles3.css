@@ -1,0 +1,33 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+    .header-right {
+      font-size: 25px;
+      margin-right: 10px;
+    }
+
+    button {
+      box-shadow: none;
+    }
+  }
+  
+  /* For Smartphones */
+  @media all and (max-width: 670px) {
+    footer {
+      text-align: center;
+    }
+
+    .header-right {
+      font-size: 20px;
+      margin-right: 5px;
+    }
+
+    .form-heading {
+      font-size: 25px;
+    }
+
+    button {
+      box-shadow: none;
+    }
+  }
+
+  
